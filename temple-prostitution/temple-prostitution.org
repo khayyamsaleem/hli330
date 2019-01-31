@@ -1,0 +1,60 @@
+#+STARTUP: noindent showall beamer
+#+TITLE: Temple Prostitution
+#+OPTIONS: toc:nil H:1 date:nil
+#+BEAMER_FRAME_LEVEL: 1
+#+BEAMER_THEME: Boadilla
+#+LATEX_HEADER: \setbeamertemplate{navigation symbols}{}
+#+SUBTITLE: Oral Report
+#+BEAMER_HEADER: \institute[HLI330]{HLI330 -- Classical Mythology}
+#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
+#+AUTHOR: Khayyam Saleem
+
+* Definition
+** Temple Prostitution (/or Sacred Prostitution/)
+- sexual intercourse or other sexual activity performed in the context of religious worship\\
+- acts of prostitution undertaken for a religious purpose
+- sexual rite performed or offered under the auspices of a God
+
+* Case Study -- Ancient Mesopotamia
+** Inanna \rightarrow Ishtar \rightarrow Astarte \rightarrow Aphrodite
+:PROPERTIES:
+:BEAMER_env: block
+:BEAMER_col: 0.6
+:END:
+- *Herodotus*: every Babylonian woman had to attend the temple of Inanna and agree to sex with any devotee that requested it
+  - Not known for his accuracy
+- This rite was an offering to ensure fertility
+  
+** Inanna and Dumuzi                                 
+:PROPERTIES:
+:BEAMER_env: block
+:BEAMER_col: 0.3
+:END:
+
+#+ATTR_LATEX: :height 150px
+[[./inanna.jpg]]
+
+* Case Study -- The Bible
+** Biblical References
+- /zonah/ or /qedesha/
+- Deuteronomy 23:17-18
+  - None of the daughters of Israel shall be a kedeshah, nor shall any of the sons of Israel be a kadesh.\\
+    You shall not bring the hire of a prostitute (zonah) or the wages of a dog (kelev) into the house of the Lord your God to pay a vow, for both of these are an abomination to the Lord your God.
+** Quote
+“The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality. 5 And on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of earth’s abominations.” 6 And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus.”  (Revelation 17:4–6 ESV)
+
+
+* Case Study -- Ancient (and Modern) India
+** Devadasi
+- Origins dated between 9th and 10th centuries, currently one of the most criticized forms of prostitution in India
+- Institutionalized sexual exploitation of Dalits
+- Originally seen as protectors of music and dance
+#+ATTR_LATEX: :width 250px
+[[./devadasi.jpg]]
+
+* Sources
+- [[http://www.academia.edu/2360254/Temple_Sacred_Prostitution_in_Ancient_Mesopotamia_Revisited][Temple/Sacred Prostitution in Ancient Mesopotamia Revisited]]
+- [[http://www.newtorah.org/pdf/The%20identity%20of%20Babylon.pdf][The Metaphor of Prostitution in the Identification of Babylon in Revelation 17–18]]
+- [[https://escholarship.org/uc/item/37z853br][THE DEVADASI SYSTEM:Temple Prostitution in India]]
+- [[https://brill.com/abstract/journals/vt/68/1/article-p8_8.xml][The qdesha in Hosea 4:14: Putting the (Myth of the) Sacred Prostitute to Bed]]
+  
