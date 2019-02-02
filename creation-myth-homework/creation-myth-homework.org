@@ -1,0 +1,18 @@
+#+TITLE: Finnish Creation Myth
+#+SUBTITLE: HLI 330 -- Classical Mythology
+#+STARTUP: noindent showall
+#+OPTIONS: toc:nil author:nil date:nil num:nil
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+* Finnish Creation Myth as Described in the /Kalevala/
+
+
+Finnish mythology is an area that is seldom researched, as many of the stories comprising its lore were communicated through folksongs and oral pieces. However, in 1849, Elias Lönnrot compiled as many of these tales as possible into the /Kalevala/, helping to preserve Finnish culture and language (Suomi) for years to follow. The /Kalevala/ offers that at first, there were only primal waters and the sky. From the Sky, a daughter spirit Ilmatar was born. Though the folklore occasionally yields conflicting stories, the /Kalevala/ submits that the world was born of an egg. The egg belonged to a diving duck, or pochard, and it was laid on the knee of Ilmatar, a virgin spirit of the air or sky. The egg shattered as Ilmatar, who was floating in the primeval sea, moved her leg. When the egg shattered, the lower half became the Earth, and the upper half became the sky. The yolk became the sun, and the whites formed the moon. The lighter crumbled shards of the shell became the stars in the heavens, and the darker crumbs became the clouds in the sky. From other folktales, we learn that Ilmatar then admired the result of the events, and created lakes and oceans with her footprints and created contours in the land by pointing her fingers. She gave birth to the first man, Väinämöinen, who was fathered by the sea. Also mentioned in the /Kalevala/, we learn that Väinämöinen then encountered a boy, Sampsa Pellervoinen on land. In the Finnish pantheon, Sampsa is a fertility god sent down from the Great Bear in the sky, and he sewed seeds throughout the barren landscape to yield forests, swamps, meadows, and rich vegetation. From here, the /Kalevala/ continues to describe through folk poems the proliferation of life and activity of the gods on the newly created Earth and heavens.\\
+
+Holappa, Lauri. “The Kalevala.” Jom, vol. 67, no. 7, 2015, pp. 1416–1416.
+
+Rabb, Kate Milner. National Epics. 4th ed., 4th ed., A.C. McClurg, 1909. Accessed 1 Feb. 2019.
+
+Eivind, R, et al. Finnish Legends for English Children. Translated by John Martin Crawford, T. Fisher Unwin, 1893. Accessed 1 Feb. 2019.
