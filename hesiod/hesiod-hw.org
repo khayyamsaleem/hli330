@@ -1,7 +1,8 @@
 #+STARTUP: noindent showall
 #+TITLE: Hesiod's Theogony
-#+OPTIONS: toc:nil date:nil author:nil num:nil
+#+OPTIONS: toc:nil date:nil num:nil
 #+SUBTITLE: HLI330 -- Classical Mythology
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
 
 * Do you see any significance in Zeus' being hidden in a cave?
 Zeus was raised in the darkness, similar to the darkness that the rest of his siblings experienced inside the belly of Kronos. However, because Zeus is hidden in a cave, he knows no familial values, and can grow up to slay his father without feeling remorse or hesitation. His upbringing in a cave, close to ground and away from the Gods, demonstrates how one can start from the bottom and grow to something great and powerful. 
