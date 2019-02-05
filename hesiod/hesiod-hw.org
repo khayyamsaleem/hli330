@@ -1,0 +1,16 @@
+#+STARTUP: noindent showall
+#+TITLE: Hesiod's Theogony
+#+OPTIONS: toc:nil date:nil author:nil num:nil
+#+SUBTITLE: HLI330 -- Classical Mythology
+
+* Do you see any significance in Zeus' being hidden in a cave?
+Zeus was raised in the darkness, similar to the darkness that the rest of his siblings experienced inside the belly of Kronos. However, because Zeus is hidden in a cave, he knows no familial values, and can grow up to slay his father without feeling remorse or hesitation. His upbringing in a cave, close to ground and away from the Gods, demonstrates how one can start from the bottom and grow to something great and powerful. 
+
+* What could the cave and the stone that Kronos swallows symbolize? Do you think Kronos gives birth?
+In the context of anthropology, the upbringing of Zeus in a cave could also be correspondent with human understanding of our origins as "cavemen." In the context of the story, the cave could signify the protection of Rhea; perhaps even a womb. The stone could symbolize a trophy representing Gaia's influence and the power of women, but also as a symbol of divine power and control. The mighty upchuck of Kronos after his face-off with Zeus could be interpreted as a rebirth of the Olympians. It reversed the order of their birth in a last-in, first-out fashion, much like a stack.
+
+* Why does Hesiod not clearly describe how Zeus forced Kronos to throw up that stone (58 - 59), or fight his father?
+Hesiod omits the details of the fight between Zeus and Kronos because HOW the events occurred could be beyond our understanding as human readers. This also places more emphasis on the birth than the battle, as to Kronos, this appearance of Zeus was largely unexpected.
+
+** What does all this stuffing / castrating / swallowing / vomiting symbolize?
+These continuous spews and swallows show that the Gods can certainly take a hit in Greek mythology, but it is also indicative of birth and pain being a shared feature between humanity and the Gods. It demonstrated that despite their power, Gods are not free from the burdens of man. It also symbolizes that there does not need to be much reason or sensibility when it comes to the Gods; and that though they share some features with us, they do not have to play by our understanding of reality.
