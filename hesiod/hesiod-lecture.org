@@ -1,0 +1,30 @@
+#+TITLE: Hesiod
+#+SUBTITLE: HLI330 -- Classical Mythology
+#+OPTIONS: toc:nil date:nil author:nil num:nil
+#+STARTUP: noindent showall
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+* Reasons People Create Art
+- Expression
+- Impression
+- Occasional
+- *Ask Professor*
+
+
+* Theogony
+Cosmogony \rarr study of how the universe came to be
+** Muses
+Hesiod opens with a praise of the muses. He was inspired by them.
+** Origin of the universe
+- Chaos, Gaia (Earth mother), Tartarus (Hell), Eros (passion/love)
+- Gaia didn't like producing kids. No sex, all pain.
+- Ouranos was afraid of his children and so "let them not rise to the light"
+  - They were ugly
+  - They were powerful, could take his place
+- Kronos takes a scythe and kills his father
+** Comparison to Genesis
+- More murder
+- Less magically coming into beings
+- Men created first
